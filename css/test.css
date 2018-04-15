@@ -1,0 +1,12 @@
+.fullscale{
+    -webkit-transition: transform 500ms;
+    -moz-transition: transform 500ms;
+    -ms-transition: transform 500ms;
+    -o-transition: transform 500ms;
+    transition: transform 500ms;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scala(1);
+}
